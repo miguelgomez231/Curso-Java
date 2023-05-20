@@ -48,6 +48,11 @@ public class EstudiantesServices {
         for (String alumno : alumPromedioSup) {
             System.out.println(alumno);
         }
+        
+        for (int i = 2; i <= 128; i *=2) {
+            System.out.println("i " + i);
+            
+        }
     }
     
 }
